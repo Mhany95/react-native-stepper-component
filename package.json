@@ -1,0 +1,42 @@
+{
+  "name": "react-native-stepper-component",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "16.3.1",
+    "react-native": "0.55.3"
+  },
+  "devDependencies": {
+    "babel-jest": "22.4.3",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.4.3",
+    "react-test-renderer": "16.3.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "description": "A simple stepper component for react native that works on both iOS and android.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mhany95/react-native-stepper-component.git"
+  },
+  "keywords": [
+    "npm",
+    "react",
+    "react",
+    "native",
+    "stepper",
+    "steps"
+  ],
+  "author": "Mahmoud Hany",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mhany95/react-native-stepper-component/issues"
+  },
+  "homepage": "https://github.com/Mhany95/react-native-stepper-component#readme"
+}
